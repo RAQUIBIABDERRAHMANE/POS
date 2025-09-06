@@ -1,36 +1,33 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# POS
 
-## Getting Started
+> **Notice:** This repository is private and for demonstration or portfolio purposes only. **Cloning, copying, or using this codebase in production or for personal projects is strictly prohibited.**
 
-First, run the development server:
+## Overview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+POS is a Point of Sale system designed to help businesses manage transactions, inventory, and customer data seamlessly. The system provides an intuitive interface for cashiers and managers, streamlining day-to-day sales operations.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- **Product Management:** Add, update, and delete products in your inventory.
+- **Inventory Tracking:** Monitor stock levels and receive alerts for low inventory.
+- **Sales Processing:** Handle customer transactions, generate receipts, and record sales.
+- **Customer Management:** Store customer information and purchase history.
+- **Reporting:** Generate daily, weekly, or monthly sales reports for business insights.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Technologies Used
 
-## Learn More
+- **JavaScript** (main language)
+- [Add frameworks/libraries if relevant, e.g. React, Node.js, Express]
+- [Add database if relevant, e.g. MongoDB, MySQL]
 
-To learn more about Next.js, take a look at the following resources:
+## Usage
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+This project is **not open for cloning or external use**. If you are interested in learning more about the system, please contact the repository owner for a demo or further information.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## License
 
-## Deploy on Vercel
+**All rights reserved. Unauthorized use, copying, or distribution is prohibited.**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Author
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+[@RAQUIBIABDERRAHMANE](https://github.com/RAQUIBIABDERRAHMANE)
